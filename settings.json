@@ -19,25 +19,26 @@
             "userName": "Johannes642",
             "email": "johannesmerwede@gmail.com",
             "selected": false
-        },
-        {
-            "label": "Main",
-            "userName": "JohannesVDM",
-            "email": "johannes.321.vander@gmail.com",
-            "selected": false
-        },
-        {
-            "label": "JohannesVDM",
-            "userName": "JohannesVDM",
-            "email": "johannes.321.vander@gmail.com",
-            "selected": false
-        },
-        {
-            "label": "JohannesVD<",
-            "email": "johannes.321.vander@gmail.com",
-            "userName": "JohannesVDM",
-            "selected": false
         }
+        // ,
+        // {
+        //     "label": "Main",
+        //     "userName": "JohannesVDM",
+        //     "email": "johannes.321.vander@gmail.com",
+        //     "selected": false
+        // },
+        // {
+        //     "label": "JohannesVDM",
+        //     "userName": "JohannesVDM",
+        //     "email": "johannes.321.vander@gmail.com",
+        //     "selected": false
+        // },
+        // {
+        //     "label": "JohannesVD<",
+        //     "email": "johannes.321.vander@gmail.com",
+        //     "userName": "JohannesVDM",
+        //     "selected": false
+        // }
     ],
     "editor.quickSuggestions": {
         "strings": true

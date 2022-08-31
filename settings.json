@@ -1,0 +1,63 @@
+{
+    "workbench.colorTheme": "Winter is Coming (Dark Blue)",
+    "material-icon-theme.folders.theme": "classic",
+    "files.autoSave": "onFocusChange",
+    "editor.wordWrap": "on",
+    "liveServer.settings.donotVerifyTags": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "material-icon-theme.folders.color": "#ff7043",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.gpuAcceleration": "off",
+    "editor.tabSize": 2,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "cSpell.enableFiletypes": [
+        "!vb"
+    ],
+    "gitConfigUser.profiles": [
+        {
+            "label": "Work",
+            "userName": "Johannes642",
+            "email": "johannesmerwede@gmail.com",
+            "selected": false
+        },
+        {
+            "label": "Main",
+            "userName": "JohannesVDM",
+            "email": "johannes.321.vander@gmail.com",
+            "selected": false
+        },
+        {
+            "label": "JohannesVDM",
+            "userName": "JohannesVDM",
+            "email": "johannes.321.vander@gmail.com",
+            "selected": false
+        },
+        {
+            "label": "JohannesVD<",
+            "email": "johannes.321.vander@gmail.com",
+            "userName": "JohannesVDM",
+            "selected": false
+        }
+    ],
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.presets.foldersAllDefaultIcon": true,
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "typescript": "typescriptreact"
+    },
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "workbench.tree.indent": 15,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.editor.untitled.hint": "hidden",
+    "gitlens.defaultDateFormat": null,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "phpfmt.indent_with_space": 4,
+    "phpfmt.exclude": [],
+    "bladeFormatter.format.indentSize": 2,
+    "tabnine.experimentalAutoImports": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorCustomizations": {}
+}

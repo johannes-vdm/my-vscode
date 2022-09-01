@@ -1,3 +1,14 @@
+// |=======||=======||=======||
+// |   U   ||   I   ||   O   ||
+// |=======||=======||=======||
+// |   J   ||   K   ||   L   ||
+// |=======||=======||=======||
+
+// ||=======||=======||=======||
+// || CTRL  || ⊞/🍎 ||  ALT  ||
+// ||=======||=======||=======||
+
+
 // vscode-keybindings for navigation with I/J/K/L and additional functionality with surrounding characters
 // Place your key bindings in this file to overwrite the defaults
 // ALT + I/J/K/L: up/left/down/right
@@ -8,9 +19,7 @@
 // CTRL + ALT +  SHIFT + U/O: mark from cursor to "wordPartLeft"/"wordPartRight"
 // CTRL + ALT + Y: got to declaration
 // CTRL + I/K: add/remove another cursor up/down
-// -- IF LINEJUMPER IS INSTALLED -- //
-// CTRL + ALT + I/K: move cursor 10 lines up/down
-// CTRL + ALT + SHIFT + I/K: mark 10 lines up/down
+
 [
     {
         "key": "ctrl+alt+n",

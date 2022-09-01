@@ -13,33 +13,6 @@
     "cSpell.enableFiletypes": [
         "!vb"
     ],
-    "gitConfigUser.profiles": [
-        {
-            "label": "Work",
-            "userName": "Johannes642",
-            "email": "johannesmerwede@gmail.com",
-            "selected": false
-        }
-        // ,
-        // {
-        //     "label": "Main",
-        //     "userName": "JohannesVDM",
-        //     "email": "johannes.321.vander@gmail.com",
-        //     "selected": false
-        // },
-        // {
-        //     "label": "JohannesVDM",
-        //     "userName": "JohannesVDM",
-        //     "email": "johannes.321.vander@gmail.com",
-        //     "selected": false
-        // },
-        // {
-        //     "label": "JohannesVD<",
-        //     "email": "johannes.321.vander@gmail.com",
-        //     "userName": "JohannesVDM",
-        //     "selected": false
-        // }
-    ],
     "editor.quickSuggestions": {
         "strings": true
     },
@@ -55,10 +28,8 @@
     "workbench.editor.untitled.hint": "hidden",
     "gitlens.defaultDateFormat": null,
     "material-icon-theme.hidesExplorerArrows": true,
-    "phpfmt.indent_with_space": 4,
-    "phpfmt.exclude": [],
-    "bladeFormatter.format.indentSize": 2,
     "tabnine.experimentalAutoImports": true,
     "files.trimTrailingWhitespace": true,
-    "workbench.colorCustomizations": {}
+    "workbench.colorCustomizations": {},
+    "window.zoomLevel": -1
 }

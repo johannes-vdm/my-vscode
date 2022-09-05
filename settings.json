@@ -30,7 +30,6 @@
     "material-icon-theme.hidesExplorerArrows": true,
     "tabnine.experimentalAutoImports": true,
     "files.trimTrailingWhitespace": true,
-    "workbench.colorCustomizations": {},
     "diffEditor.ignoreTrimWhitespace": false,
-    "window.zoomLevel": -0.5
+    "vsicons.presets.hideExplorerArrows": true
 }

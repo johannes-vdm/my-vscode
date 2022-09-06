@@ -30,6 +30,4 @@
     "material-icon-theme.hidesExplorerArrows": true,
     "tabnine.experimentalAutoImports": true,
     "files.trimTrailingWhitespace": true,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "vsicons.presets.hideExplorerArrows": true
 }

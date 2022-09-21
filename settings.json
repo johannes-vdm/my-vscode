@@ -28,6 +28,10 @@
     "workbench.editor.untitled.hint": "hidden",
     "gitlens.defaultDateFormat": null,
     "material-icon-theme.hidesExplorerArrows": true,
-    "tabnine.experimentalAutoImports": true,
-    "files.trimTrailingWhitespace": true,
+    // "tabnine.experimentalAutoImports": true
+    // "files.trimTrailingWhitespace": false,
+    // "workbench.statusBar.visible": false,
+    // "diffEditor.ignoreTrimWhitespace": false,
+    // "window.zoomLevel": -1,
+    // "explorer.compactFolders": false,
 }

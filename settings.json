@@ -28,6 +28,32 @@
     "workbench.editor.untitled.hint": "hidden",
     "gitlens.defaultDateFormat": null,
     "material-icon-theme.hidesExplorerArrows": true,
+    "explorer.compactFolders": false,
+    "files.associations": {
+        "*.json": "jsonc"
+    },
+    "yaml.schemas": {
+        "file:///c%3A/Users/Johannes.VanDerMerwe/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.enabled": true,
+    "atlascode.jira.jqlList": [
+        {
+            "id": "ab9a0b07-9452-430a-9d06-7a873b6c3988",
+            "enabled": true,
+            "name": "My caseware Issues",
+            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+            "siteId": "c764e546-4971-4a4b-8971-eefae3cf2fb8",
+            "monitor": true
+        },
+        {
+            "id": "56dd2f7e-61a9-430d-bbd9-2ae4e9a184ca",
+            "enabled": true,
+            "name": "My cqsauditsoftware Issues",
+            "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+            "siteId": "a782c113-64dc-49ff-9be0-ddb3cf9d6b57",
+            "monitor": true
+        }
+    ],
     // "tabnine.experimentalAutoImports": true
     // "files.trimTrailingWhitespace": false,
     // "workbench.statusBar.visible": false,

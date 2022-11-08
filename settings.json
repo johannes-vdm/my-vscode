@@ -54,6 +54,12 @@
             "monitor": true
         }
     ],
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.sideBar.location": "right",
+    "editor.scrollbar.scrollByPage": true,
     // "tabnine.experimentalAutoImports": true
     // "files.trimTrailingWhitespace": false,
     // "workbench.statusBar.visible": false,

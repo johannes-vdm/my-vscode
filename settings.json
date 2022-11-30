@@ -60,6 +60,7 @@
     "diffEditor.ignoreTrimWhitespace": true,
     "workbench.sideBar.location": "right",
     "editor.scrollbar.scrollByPage": true,
+    "editor.unicodeHighlight.nonBasicASCII": true,
     // "tabnine.experimentalAutoImports": true
     // "files.trimTrailingWhitespace": false,
     // "workbench.statusBar.visible": false,

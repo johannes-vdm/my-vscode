@@ -33,7 +33,6 @@
         "*.json": "jsonc"
     },
     "yaml.schemas": {
-        "file:///c%3A/Users/Johannes.VanDerMerwe/.vscode/extensions/atlassian.atlascode-2.10.12/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
     },
     "atlascode.bitbucket.enabled": true,
     "atlascode.jira.jqlList": [
@@ -57,10 +56,12 @@
     "[javascriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "diffEditor.ignoreTrimWhitespace": true,
+    "diffEditor.ignoreTrimWhitespace": false,
     "workbench.sideBar.location": "right",
     "editor.scrollbar.scrollByPage": true,
     "editor.unicodeHighlight.nonBasicASCII": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.acceptSuggestionOnCommitCharacter": false,
     // "tabnine.experimentalAutoImports": true
     // "files.trimTrailingWhitespace": false,
     // "workbench.statusBar.visible": false,
